@@ -1,0 +1,39 @@
+#Sample ID,DepthCat,SizeFracCat,sulfide_uMCat,DO_umCat,Turbidity_FNUCat,Temp_CCat,ORP_mVCat,pHCat,Chl-aCat,phycoCat,salinity_psuCat,TDS_mgLCat,IC_assmCat,BHP Cat,totalcellLCat,CH4Cat,SO4Cat,NO3Cat,MnCat,FeCat,NH4Cat,0.4ParticCat,0.2-0.4ParticCat,ParticCat,thiosulfate_µMCat,del13C_POCCat,DescriptionCat,oxcatCat,redoxclineposCat,MonthCat,yearCat
+AC-GL3-0-2-6,0,0.2-2.7,0,4,0,3,3,3,0,0,1,0,0,1,0,0,0,3,0,0,NAN,0,0,0,0,NAN,AC_6_5m_1L_2017-04-10,oxic,above,early October,2016.0
+AC-GL3-0-2-19,1,0.2-2.7,0,5,0,2,3,4,0,0,1,0,0,1,1,0,0,3,0,0,NAN,0,0,0,0,NAN,AC_19_15m_1L_2017-04-10,oxic,upper boundary,early October,2016.0
+AC-GL3-0-2-1,1,0.2-2.7,0,3,0,2,3,2,0,0,1,0,NAN,NAN,NAN,0,0,2,0,0,NAN,0,0,0,0,NAN,AC_1_16m_1L_2017-04-10,oxic,inside,early October,2016.0
+AC-GL3-0-2-4,1,0.2-2.7,0,0,0,2,3,1,0,0,2,1,NAN,NAN,NAN,0,0,1,0,0,NAN,1,1,0,0,NAN,AC_4_19m_1L_2017-04-10,suboxic,inside,early October,2016.0
+AC-GL3-0-2-7,1,0.2-2.7,0,0,3,2,2,1,1,0,2,1,1,2,1,0,0,1,1,0,NAN,1,1,0,0,NAN,AC_7_20m_1L_2017-04-17,suboxic,inside,early October,2016.0
+AC-GL3-0-2-9,1,0.2-2.7,1,0,2,2,0,1,0,0,2,1,NAN,NAN,NAN,1,0,0,2,1,NAN,1,1,0,0,NAN,AC_9_21m_1L_2017-04-10,euxinic,lower boundary,early October,2016.0
+AC-GL3-0-2-18,1,0.2-2.7,1,0,1,1,0,1,0,0,2,1,0,0,1,2,1,0,1,1,NAN,2,0,0,0,NAN,AC_18_25m_1L_2017-04-10,euxinic,below,early October,2016.0
+AC-GL3-0-2-3,2,0.2-2.7,2,0,0,1,0,1,0,0,2,2,0,0,1,3,1,0,0,0,NAN,0,1,0,0,NAN,AC_3_40m_1L_2017-04-10,euxinic,below,early October,2016.0
+AC-GL3-0-2-14,1,0.2-2.7,0,0,3,2,2,1,1,0,2,1,1,2,1,0,0,1,1,0,NAN,1,1,0,0,NAN,AC_14_20m_0.5L_2017-04-10,suboxic,inside,early October,2016.0
+AC-GL3-2-7-6,0,>2.7,0,4,0,3,3,3,0,0,1,0,0,1,0,0,0,3,0,0,NAN,0,0,0,0,NAN,AC_6_5m_1L_2017-04-17,oxic,above,early October,2016.0
+AC-GL3-2-7-19,1,>2.7,0,5,0,2,3,4,0,0,1,0,0,1,1,0,0,3,0,0,NAN,0,0,0,0,NAN,AC_19_15m_1L_2017-04-17,oxic,upper boundary,early October,2016.0
+AC-GL3-2-7-1,1,>2.7,0,3,0,2,3,2,0,0,1,0,NAN,NAN,NAN,0,0,2,0,0,NAN,0,0,0,0,NAN,AC_1_16m_1L_2017-04-17,oxic,inside,early October,2016.0
+AC-GL3-2-7-4,1,>2.7,0,0,0,2,3,1,0,0,2,1,NAN,NAN,NAN,0,0,1,0,0,NAN,1,1,0,0,NAN,AC_4_19m_1L_2017-04-17,suboxic,inside,early October,2016.0
+AC-GL3-2-7-7,1,>2.7,0,0,3,2,2,1,1,0,2,1,1,2,1,0,0,1,1,0,NAN,1,1,0,0,NAN,AC_7_20m_1L_2017-04-17,suboxic,inside,early October,2016.0
+AC-GL3-2-7-9,1,>2.7,1,0,2,2,0,1,0,0,2,1,NAN,NAN,NAN,1,0,0,2,1,NAN,1,1,0,0,NAN,AC_9_21m_1L_2017-04-17,euxinic,lower boundary,early October,2016.0
+AC-GL3-2-7-18,1,>2.7,1,0,1,1,0,1,0,0,2,1,0,0,1,2,1,0,1,1,NAN,2,0,0,0,NAN,AC_18_25m_1L_2017-04-17,euxinic,below,early October,2016.0
+AC-GL3-2-7-3,2,>2.7,2,0,0,1,0,1,0,0,2,2,0,0,1,3,1,0,0,0,NAN,0,1,0,0,NAN,AC_3_40m_1L_2017-04-17,euxinic,below,early October,2016.0
+AC-GL3-2-7-14,1,>2.7,0,0,3,2,2,1,1,0,2,1,1,2,1,0,0,1,1,0,NAN,1,1,0,0,NAN,AC_14_20m_0.5L_2017-04-17,suboxic,inside,early October,2016.0
+AC-GL4-102,0,0.2-2.7,0,4,1,2,3,2,0,0,1,0,0,0,1,0,0,2,0,0,0,NAN,NAN,0,0,3,AC_102_10m,oxic,above,late July,2017.0
+AC-GL4-71,1,0.2-2.7,0,4,0,2,3,2,0,0,1,0,0,1,1,0,0,2,0,0,0,NAN,NAN,0,0,NAN,AC_71_15m,oxic,upper boundary,late July,2017.0
+AC-GL4-73,1,0.2-2.7,0,3,0,2,3,1,0,0,1,0,0,1,1,0,0,2,0,0,0,NAN,NAN,0,0,3,AC_73_16m,oxic,inside,late July,2017.0
+AC-GL4-69,1,0.2-2.7,0,1,0,2,3,0,0,0,2,1,1,1,1,0,0,1,1,0,1,NAN,NAN,0,0,3,AC_69_19m,hypoxic,inside,late July,2017.0
+AC-GL4-59,1,0.2-2.7,0,1,2,2,3,0,2,2,2,1,1,2,1,1,0,0,1,0,1,NAN,NAN,1,0,0,AC_59_20m dil 1:100,euxinic,lower boundary,late July,2017.0
+AC-GL4-54,1,0.2-2.7,1,1,2,2,1,0,1,1,2,1,2,0,3,1,0,0,3,3,1,NAN,NAN,2,1,2,AC_54_20.5m dil. 1:100,euxinic,below,late July,2017.0
+AC-GL4-60,1,0.2-2.7,1,1,2,2,0,0,0,1,2,1,2,0,2,1,0,0,2,4,1,NAN,NAN,1,1,2,AC_60-1-GTTP_21m,euxinic,below,late July,2017.0
+AC-GL4-50,1,0.2-2.7,1,1,2,1,0,0,0,1,2,1,1,0,1,2,1,0,1,2,2,NAN,NAN,0,1,2,AC_50_23m,euxinic,below,late July,2017.0
+AC-GL4-61,1,0.2-2.7,1,1,2,0,1,0,0,0,0,1,1,0,1,2,1,0,1,1,2,NAN,NAN,0,1,2,AC_61_25m,euxinic,below,late July,2017.0
+AC-GL4-70,2,0.2-2.7,1,1,0,1,0,0,0,0,2,2,0,0,2,3,1,0,0,0,3,NAN,NAN,0,1,2,AC_70_40m,euxinic,below,late July,2017.0
+AC-GL4-70C,2,>2.7,1,1,0,1,0,0,0,0,2,2,0,0,2,3,1,0,0,0,3,NAN,NAN,0,1,2,AC_70C_40m,euxinic,below,late July,2017.0
+AC-GL4-102C,0,>2.7,0,4,1,2,3,2,0,0,1,0,0,0,1,0,0,2,0,0,0,NAN,NAN,0,0,2,AC_102C_10m,oxic,above,late July,2017.0
+AC-GL4-71C,1,>2.7,0,4,0,2,3,2,0,0,1,0,0,1,1,0,0,2,0,0,0,NAN,NAN,0,0,2,AC_71C_15m,oxic,upper boundary,late July,2017.0
+AC-GL4-73C,1,>2.7,0,3,0,2,3,1,0,0,1,0,0,1,1,0,0,2,0,0,0,NAN,NAN,0,0,1,AC_73C_16m,oxic,inside,late July,2017.0
+AC-GL4-69C,1,>2.7,0,1,0,2,3,0,0,0,2,1,1,1,1,0,0,1,1,0,1,NAN,NAN,0,0,1,AC_69C_19m,hypoxic,inside,late July,2017.0
+AC-GL4-59C,1,>2.7,0,1,2,2,3,0,2,2,2,1,1,2,1,1,0,0,1,0,1,NAN,NAN,1,0,1,AC_59C_20m dil 1:100,euxinic,lower boundary,late July,2017.0
+AC-GL4-54C,1,>2.7,1,1,2,2,1,0,1,1,2,1,2,0,3,1,0,0,3,3,1,NAN,NAN,2,1,0,AC_54C_20.5m dil 1:100,euxinic,below,late July,2017.0
+AC-GL4-60C,1,>2.7,1,1,2,2,0,0,0,1,2,1,2,0,2,1,0,0,2,4,1,NAN,NAN,1,1,1,AC_60C_21m,euxinic,below,late July,2017.0
+AC-GL4-50C,1,>2.7,1,1,2,1,0,0,0,1,2,1,1,0,1,2,1,0,1,2,2,NAN,NAN,0,1,1,AC_50C_23m,euxinic,below,late July,2017.0
+AC-GL4-61C,1,>2.7,1,1,2,0,1,0,0,0,0,1,1,0,1,2,1,0,1,1,2,NAN,NAN,0,1,1,AC_61C_25m,euxinic,below,late July,2017.0
